@@ -1,0 +1,4 @@
+Age,Sex,BMI,Children,Smoker,Region,output,timestamp
+30,male,25,0,yes,southeast,"**Predicted Insurance Charges:** $19,526.91",2026-01-20 22:11:22.622135
+72,male,36.5,3,no,southeast,"**Predicted Insurance Charges:** $20,304.56",2026-01-20 22:13:07.604700
+27,male,22.7,0,no,southwest,"**Predicted Insurance Charges:** $4,316.46",2026-01-20 22:33:57.113852
